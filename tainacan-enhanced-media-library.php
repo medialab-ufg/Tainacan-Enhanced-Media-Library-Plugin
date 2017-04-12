@@ -10,8 +10,6 @@
  */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
-require_once "ThemifyBuilderExtension.php";
-
 $plug_in_dir = plugin_dir_url(__FILE__);
 
 /*
